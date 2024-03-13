@@ -1,0 +1,4 @@
+D:/code/1.CG/color_mapping/build/CMakeFiles/color_mapping.dir
+D:/code/1.CG/color_mapping/build/CMakeFiles/contour.dir
+D:/code/1.CG/color_mapping/build/CMakeFiles/ALL_BUILD.dir
+D:/code/1.CG/color_mapping/build/CMakeFiles/ZERO_CHECK.dir
